@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Structured Debate Engine",
+  "description": "An AI-powered single-page application that facilitates, moderates, and judges a structured debate between two opposing viewpoints. The AI uses defined rules, scoring, and judging lenses to provide real-time analysis and a final report.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
